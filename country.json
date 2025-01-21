@@ -64,7 +64,7 @@
         "code": "AZ"
     },
     {
-        "name": "Bahamas (the)",
+        "name": "Bahamas ",
         "code": "BS"
     },
     {
@@ -128,7 +128,7 @@
         "code": "BR"
     },
     {
-        "name": "British Indian Ocean Territory (the)",
+        "name": "British Indian Ocean Territory ",
         "code": "IO"
     },
     {
@@ -164,11 +164,11 @@
         "code": "CA"
     },
     {
-        "name": "Cayman Islands (the)",
+        "name": "Cayman Islands ",
         "code": "KY"
     },
     {
-        "name": "Central African Republic (the)",
+        "name": "Central African Republic ",
         "code": "CF"
     },
     {
@@ -188,7 +188,7 @@
         "code": "CX"
     },
     {
-        "name": "Cocos (Keeling) Islands (the)",
+        "name": "Cocos (Keeling) Islands ",
         "code": "CC"
     },
     {
@@ -196,7 +196,7 @@
         "code": "CO"
     },
     {
-        "name": "Comoros (the)",
+        "name": "Comoros ",
         "code": "KM"
     },
     {
@@ -204,11 +204,11 @@
         "code": "CD"
     },
     {
-        "name": "Congo (the)",
+        "name": "Congo ",
         "code": "CG"
     },
     {
-        "name": "Cook Islands (the)",
+        "name": "Cook Islands ",
         "code": "CK"
     },
     {
@@ -252,7 +252,7 @@
         "code": "DM"
     },
     {
-        "name": "Dominican Republic (the)",
+        "name": "Dominican Republic ",
         "code": "DO"
     },
     {
@@ -288,11 +288,11 @@
         "code": "ET"
     },
     {
-        "name": "Falkland Islands (the) [Malvinas]",
+        "name": "Falkland Islands  [Malvinas]",
         "code": "FK"
     },
     {
-        "name": "Faroe Islands (the)",
+        "name": "Faroe Islands ",
         "code": "FO"
     },
     {
@@ -316,7 +316,7 @@
         "code": "PF"
     },
     {
-        "name": "French Southern Territories (the)",
+        "name": "French Southern Territories ",
         "code": "TF"
     },
     {
@@ -324,7 +324,7 @@
         "code": "GA"
     },
     {
-        "name": "Gambia (the)",
+        "name": "Gambia ",
         "code": "GM"
     },
     {
@@ -392,7 +392,7 @@
         "code": "HM"
     },
     {
-        "name": "Holy See (the)",
+        "name": "Holy See ",
         "code": "VA"
     },
     {
@@ -488,7 +488,7 @@
         "code": "KG"
     },
     {
-        "name": "Lao People's Democratic Republic (the)",
+        "name": "Lao People's Democratic Republic ",
         "code": "LA"
     },
     {
@@ -552,7 +552,7 @@
         "code": "MT"
     },
     {
-        "name": "Marshall Islands (the)",
+        "name": "Marshall Islands ",
         "code": "MH"
     },
     {
@@ -624,7 +624,7 @@
         "code": "NP"
     },
     {
-        "name": "Netherlands (the)",
+        "name": "Netherlands ",
         "code": "NL"
     },
     {
@@ -640,7 +640,7 @@
         "code": "NI"
     },
     {
-        "name": "Niger (the)",
+        "name": "Niger ",
         "code": "NE"
     },
     {
@@ -656,7 +656,7 @@
         "code": "NF"
     },
     {
-        "name": "Northern Mariana Islands (the)",
+        "name": "Northern Mariana Islands",
         "code": "MP"
     },
     {
@@ -696,7 +696,7 @@
         "code": "PE"
     },
     {
-        "name": "Philippines (the)",
+        "name": "Philippines",
         "code": "PH"
     },
     {
@@ -728,7 +728,7 @@
         "code": "RO"
     },
     {
-        "name": "Russian Federation (the)",
+        "name": "Russian Federation",
         "code": "RU"
     },
     {
@@ -844,7 +844,7 @@
         "code": "LK"
     },
     {
-        "name": "Sudan (the)",
+        "name": "Sudan ",
         "code": "SD"
     },
     {
@@ -916,7 +916,7 @@
         "code": "TM"
     },
     {
-        "name": "Turks and Caicos Islands (the)",
+        "name": "Turks and Caicos Islands ",
         "code": "TC"
     },
     {
@@ -932,15 +932,15 @@
         "code": "UA"
     },
     {
-        "name": "United Arab Emirates (the)",
+        "name": "United Arab Emirates ",
         "code": "AE"
     },
     {
-        "name": "United Kingdom of Great Britain and Northern Ireland (the)",
+        "name": "United Kingdom of Great Britain and Northern Ireland ",
         "code": "GB"
     },
     {
-        "name": "United States Minor Outlying Islands (the)",
+        "name": "United States Minor Outlying Islands ",
         "code": "UM"
     },
     {
