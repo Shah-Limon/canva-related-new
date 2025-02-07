@@ -104,11 +104,11 @@
         "code": "BT"
     },
     {
-        "name": "Bolivia (Plurinational State of)",
+        "name": "Bolivia",
         "code": "BO"
     },
     {
-        "name": "Bonaire, Sint Eustatius and Saba",
+        "name": "Bonaire",
         "code": "BQ"
     },
     {
@@ -128,7 +128,7 @@
         "code": "BR"
     },
     {
-        "name": "British Indian Ocean Territory ",
+        "name": "British Indian Ocean Territory",
         "code": "IO"
     },
     {
@@ -188,7 +188,7 @@
         "code": "CX"
     },
     {
-        "name": "Cocos (Keeling) Islands ",
+        "name": "Cocos",
         "code": "CC"
     },
     {
@@ -200,7 +200,7 @@
         "code": "KM"
     },
     {
-        "name": "Congo (the Democratic Republic of the)",
+        "name": "Congo",
         "code": "CD"
     },
     {
@@ -252,7 +252,7 @@
         "code": "DM"
     },
     {
-        "name": "Dominican Republic ",
+        "name": "Dominican Republic",
         "code": "DO"
     },
     {
@@ -288,7 +288,7 @@
         "code": "ET"
     },
     {
-        "name": "Falkland Islands  [Malvinas]",
+        "name": "Malvinas",
         "code": "FK"
     },
     {
@@ -316,7 +316,7 @@
         "code": "PF"
     },
     {
-        "name": "French Southern Territories ",
+        "name": "French Southern Territories",
         "code": "TF"
     },
     {
@@ -420,7 +420,7 @@
         "code": "ID"
     },
     {
-        "name": "Iran (Islamic Republic of)",
+        "name": "Iran",
         "code": "IR"
     },
     {
@@ -472,12 +472,8 @@
         "code": "KI"
     },
     {
-        "name": "Korea (the Democratic People's Republic of)",
+        "name": "Korea",
         "code": "KP"
-    },
-    {
-        "name": "Korea (the Republic of)",
-        "code": "KR"
     },
     {
         "name": "Kuwait",
@@ -488,7 +484,7 @@
         "code": "KG"
     },
     {
-        "name": "Lao People's Democratic Republic ",
+        "name": "Lao People's Democratic Republic",
         "code": "LA"
     },
     {
@@ -552,7 +548,7 @@
         "code": "MT"
     },
     {
-        "name": "Marshall Islands ",
+        "name": "Marshall Islands",
         "code": "MH"
     },
     {
@@ -576,11 +572,11 @@
         "code": "MX"
     },
     {
-        "name": "Micronesia (Federated States of)",
+        "name": "Micronesia",
         "code": "FM"
     },
     {
-        "name": "Moldova (the Republic of)",
+        "name": "Moldova",
         "code": "MD"
     },
     {
@@ -676,7 +672,7 @@
         "code": "PW"
     },
     {
-        "name": "Palestine, State of",
+        "name": "Palestine",
         "code": "PS"
     },
     {
@@ -744,7 +740,7 @@
         "code": "BL"
     },
     {
-        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "name": "Saint Helena",
         "code": "SH"
     },
     {
@@ -756,15 +752,15 @@
         "code": "LC"
     },
     {
-        "name": "Saint Martin (French part)",
+        "name": "Saint Martin",
         "code": "MF"
     },
     {
-        "name": "Saint Pierre and Miquelon",
+        "name": "Saint Pierre",
         "code": "PM"
     },
     {
-        "name": "Saint Vincent and the Grenadines",
+        "name": "Saint Vincent",
         "code": "VC"
     },
     {
@@ -776,7 +772,7 @@
         "code": "SM"
     },
     {
-        "name": "Sao Tome and Principe",
+        "name": "Sao",
         "code": "ST"
     },
     {
@@ -804,7 +800,7 @@
         "code": "SG"
     },
     {
-        "name": "Sint Maarten (Dutch part)",
+        "name": "Sint Maarten",
         "code": "SX"
     },
     {
@@ -828,7 +824,7 @@
         "code": "ZA"
     },
     {
-        "name": "South Georgia and the South Sandwich Islands",
+        "name": "South Georgia",
         "code": "GS"
     },
     {
@@ -868,7 +864,7 @@
         "code": "SY"
     },
     {
-        "name": "Taiwan (Province of China)",
+        "name": "Taiwan",
         "code": "TW"
     },
     {
@@ -876,7 +872,7 @@
         "code": "TJ"
     },
     {
-        "name": "Tanzania, United Republic of",
+        "name": "Tanzania",
         "code": "TZ"
     },
     {
@@ -932,15 +928,15 @@
         "code": "UA"
     },
     {
-        "name": "United Arab Emirates ",
+        "name": "United Arab Emirates",
         "code": "AE"
     },
     {
-        "name": "United Kingdom of Great Britain and Northern Ireland ",
+        "name": "United Kingdom",
         "code": "GB"
     },
     {
-        "name": "United States Minor Outlying Islands ",
+        "name": "United States",
         "code": "UM"
     },
     {
@@ -960,7 +956,7 @@
         "code": "VU"
     },
     {
-        "name": "Venezuela (Bolivarian Republic of)",
+        "name": "Venezuela",
         "code": "VE"
     },
     {
@@ -968,7 +964,7 @@
         "code": "VN"
     },
     {
-        "name": "Virgin Islands (British)",
+        "name": "Virgin Islands",
         "code": "VG"
     },
     {
